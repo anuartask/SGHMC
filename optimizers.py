@@ -1,3 +1,6 @@
+import numpy as np
+from sgdbase import SGDBase
+
 class SGD(SGDBase):
     
     def __init__(self,
